@@ -1,7 +1,9 @@
-# rookies-league-2024
+# ¡Forma parte de la Rookie's League!
+## El programa de jóvenes talentos de CaixaBank Tech que no te puedes perder. 
+
 El juego ha empezado. Queremos que nos conozcas en profundidad, que estudies lo que hacemos y des un Level-Up a tu futuro formando parte del programa Rookie's League de CaixaBank Tech.
 
-THE GAME IS ON 🚀
+# THE GAME IS ON 🚀
 En Caixabank tech estamos cambiando el mundo, somos uno de los mayores motores de transformación digital de Europa.
 
 Desarrollamos soluciones financieras end to end con un claro objetivo: reinventar las reglas de juego a nivel tecnológico de una forma inteligente, flexible y con un impacto real en la sociedad.
