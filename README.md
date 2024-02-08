@@ -1,5 +1,5 @@
-<p align="center">
-// # ¡Forma parte de la Rookie's League!
+<p align=center> //
+# ¡Forma parte de la Rookie's League!
 ## El programa de jóvenes talentos de CaixaBank Tech que no te puedes perder. 
 </p>
 
