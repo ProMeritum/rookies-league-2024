@@ -9,9 +9,9 @@ En CaixaBank Tech estamos cambiando el mundo, somos uno de los mayores motores d
 
 Desarrollamos soluciones financieras end-to-end con un claro objetivo: reinventar las reglas de juego a nivel tecnológico de una forma inteligente, flexible y con un impacto real en la sociedad.
 
+[<img src="https://i.ibb.co/5KxBsVt/Mockup-Caixabank-2-Rookies-2024.png" width="70%">](https://caixabanktech.com/wp-content/uploads/sites/13/2024/01/CBK-CORPO-CAMBIOS_v20_reducido.mp4)
 <p align="center">
-[<img src="(link)" width="75%">]
-  (https://caixabanktech.com/wp-content/uploads/sites/13/2024/01/CBK-CORPO-CAMBIOS_v20_reducido.mp4)
+**¡Haz clic en la imagen para ver el vídeo!**
 </p>
 
 ## Nuestra metodología
