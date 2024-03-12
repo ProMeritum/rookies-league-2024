@@ -69,8 +69,8 @@ Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixa
 Pincha en el siguiente link y hagamos MATCH.
 
 <p align="center">
-<img src="[https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg](https://vacantes.promeritum.es/company/caixabanktech)" width="60%">
+<img src="[https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg](https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95)" width="60%">
 
 _<p align="center">
-[<img src="https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg" width="50%">](https://vacantes.promeritum.es/company/caixabanktech)
+[<img src="https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg" width="50%">](https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95)
 </p>
