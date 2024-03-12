@@ -73,4 +73,4 @@ Pincha en el siguiente link y hagamos MATCH.
 
 _<p align="center">
 [<img src="https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg" width="50%">](https://vacantes.promeritum.es/company/caixabanktech)
-
+</p>
